@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EHIntroView_Example' do
+  pod 'EHIntroView', :path => '../'
+
+  target 'EHIntroView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - EHIntroView (0.1.0)
+
+DEPENDENCIES:
+  - EHIntroView (from `../`)
+
+EXTERNAL SOURCES:
+  EHIntroView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EHIntroView: fbae7f641a391b13d12dacc87b6d119c43a2cf1c
+
+PODFILE CHECKSUM: d1423bbef0f0155d47333768c400fda3b0f7eb31
+
+COCOAPODS: 1.0.0

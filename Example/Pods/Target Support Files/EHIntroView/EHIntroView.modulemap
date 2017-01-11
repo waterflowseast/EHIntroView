@@ -1,0 +1,6 @@
+framework module EHIntroView {
+  umbrella header "EHIntroView-umbrella.h"
+
+  export *
+  module * { export * }
+}

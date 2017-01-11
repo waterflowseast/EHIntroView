@@ -1,0 +1,6 @@
+framework module Pods_EHIntroView_Example {
+  umbrella header "Pods-EHIntroView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

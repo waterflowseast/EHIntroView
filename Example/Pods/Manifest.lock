@@ -1,16 +1,22 @@
 PODS:
-  - EHIntroView (0.1.0)
+  - EHIntroView (1.0.0):
+    - EHItemViewCommon (~> 1.0.0)
+  - EHItemViewCommon (1.0.0)
+  - Masonry (0.6.4)
 
 DEPENDENCIES:
   - EHIntroView (from `../`)
+  - Masonry (~> 0.6.4)
 
 EXTERNAL SOURCES:
   EHIntroView:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EHIntroView: fbae7f641a391b13d12dacc87b6d119c43a2cf1c
+  EHIntroView: f281765f6a75602d0da569181d20391a8e0268ae
+  EHItemViewCommon: 75b801f64e4f5ac7bbd9972911501a4e3993b27d
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
 
-PODFILE CHECKSUM: d1423bbef0f0155d47333768c400fda3b0f7eb31
+PODFILE CHECKSUM: b827644784fd0bff82292e9a93e204404497246d
 
 COCOAPODS: 1.0.0

@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'EHIntroView_Example' do
   pod 'EHIntroView', :path => '../'
+  pod 'Masonry', '~> 0.6.4'
 
   target 'EHIntroView_Tests' do
     inherit! :search_paths
